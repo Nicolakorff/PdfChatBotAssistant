@@ -18,7 +18,7 @@ This is a chatbot assistant that allows you to converse with a chatbot about the
 
 1. **Clone the repository (if necessary):**
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/Nicolakorff/PdfChatbotAssistant
 cd PdfChatbotAssistant
 ```
 2. **Install the dependencies:**

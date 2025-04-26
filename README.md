@@ -3,7 +3,7 @@
 **Try it!!** https://pdfchatbotassistant.streamlit.app/
 
 This is a chatbot assistant that allows you to converse with a chatbot about the content of your PDF files. Simply upload your PDFs, it processes the content, and then you can ask it any questions about the information contained within.
-I must say the answers are not what expected, but I love them profoundly. They make me think and laugh. Still learning what each model can do.
+I must say the answers are not what expected, but I love them profoundly. They make me think and laugh. I love it! Still learning what each model can do.
 
 ## Key Features
 

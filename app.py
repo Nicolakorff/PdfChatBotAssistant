@@ -7,11 +7,8 @@ from langchain_community.llms import HuggingFaceHub
 from langchain_community.vectorstores import FAISS
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
-from langchain.chains.combine_documents.stuff import StuffDocumentsChain
-from langchain.chains import LLMChain
 from langchain.schema import Document
 from langchain_core.documents import BaseDocumentTransformer
-from langchain.prompts import PromptTemplate
 # from langchain.chat_models import ChatOpenAI
 # from langchain.embeddings import OpenAIEmbeddings
 from htmlTemplates import bot_template, user_template, css

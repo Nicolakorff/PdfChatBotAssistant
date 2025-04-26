@@ -1,4 +1,4 @@
-# PdfChatbotAssistant
+# PdfChatbotConversationalist
 
 **Try it!!** https://pdfchatbotassistant.streamlit.app/
 

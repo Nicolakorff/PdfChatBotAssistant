@@ -58,6 +58,6 @@ streamlit run app.py
 Contributions to this project are welcome. If you have ideas for improving the application or have found a bug, please feel free to open an issue or submit a pull request.
 
 ![Captura de pantalla 2025-04-25 a las 22 25 27](https://github.com/user-attachments/assets/f6932d85-d46f-4aba-9fdc-1d3f4c7e2359)
-![Captura de pantalla 2025-04-25 a las 22 24 51](https://github.com/user-attachments/assets/e8289f79-fd32-41a4-b8f1-2ae6026709dc)
+![Captura de pantalla 2025-04-26 a las 14 37 36](https://github.com/user-attachments/assets/84837f13-5606-406a-813b-e6c946c9dcfe)
 ![Captura de pantalla 2025-04-26 a las 14 32 16](https://github.com/user-attachments/assets/3f61afb0-8919-42b2-bd3c-3b9222f1b2bb)
 

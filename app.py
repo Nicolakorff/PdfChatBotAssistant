@@ -154,7 +154,7 @@ def main():
             st.markdown("2. Click the 'Process PDFs' button.")
             st.markdown("3. Write your questions in the main text box.")
 
-        st.markdown("Made by Nicola")
+        st.markdown("Made by Nicola Korff")
 
 if __name__ == '__main__':
     main()

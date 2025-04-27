@@ -1,6 +1,6 @@
 # PdfChatbotConversationalist
 
-**Try it!!** https://pdfchatbotassistant.streamlit.app/
+**Try it!!** [PDF Chatbot Conversationalist](https://pdfchatbotassistant.streamlit.app/)
 
 This is a chatbot assistant that allows you to converse with a chatbot about the content of your PDF files. Simply upload your PDFs, it processes the content, and then you can ask it any questions about the information contained within.
 I must say the answers are not what expected, but I love them profoundly. They make me think and laugh. I love it! Still learning what each model can do.
@@ -56,6 +56,15 @@ streamlit run app.py
 ## Contributions
 
 Contributions to this project are welcome. If you have ideas for improving the application or have found a bug, please feel free to open an issue or submit a pull request.
+
+## Author
+
+Nicola Korff [My Github](https://github.com/Nicolakorff/)
+
+## License
+
+MIT License
+
 
 ![Captura de pantalla 2025-04-25 a las 22 25 27](https://github.com/user-attachments/assets/f6932d85-d46f-4aba-9fdc-1d3f4c7e2359)
 ![Captura de pantalla 2025-04-26 a las 14 37 36](https://github.com/user-attachments/assets/84837f13-5606-406a-813b-e6c946c9dcfe)
